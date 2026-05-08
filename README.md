@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 公式识别工具 v1.0
 
 基于 `pix2text` 的数学公式截图识别应用，支持将公式图片转换为 Markdown 格式。
@@ -221,3 +222,7 @@ pip install --upgrade PyQt6 pix2text markdown2 python-docx reportlab
 
 **版本号：** 1.0 (第1阶段)  
 **最后更新：** 2026-05-07
+=======
+# P2T-Formula-Tool
+截图或者输入pdf识别公式，并输出latex格式或MathML（可选）
+>>>>>>> 39d59439903c35317786e5fee74160af758d5ab2
