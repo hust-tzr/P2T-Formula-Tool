@@ -40,7 +40,7 @@
 #### 步骤 2：克隆你的 Fork
 
 ```bash
-git clone https://github.com/your-username/pix2text.git
+git clone https://github.com/hust-tzr/pix2text.git
 cd pix2text
 ```
 
