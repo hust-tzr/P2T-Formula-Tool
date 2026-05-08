@@ -1,0 +1,1 @@
+"""Core module for formula recognition and formatting"""
