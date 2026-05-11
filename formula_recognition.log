@@ -265,3 +265,76 @@
 2026-05-08 16:01:53,230 - utils.image_handler - INFO - 临时图片保存: C:\Users\唐卓然\AppData\Local\Temp\tmpb0iwwvs2.png
 2026-05-08 16:01:55,492 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmpb0iwwvs2.png
 2026-05-08 16:01:56,178 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmpb0iwwvs2.png
+2026-05-08 17:13:20,786 - __main__ - INFO - ==================================================
+2026-05-08 17:13:20,786 - __main__ - INFO - 应用启动
+2026-05-08 17:13:20,786 - __main__ - INFO - ==================================================
+2026-05-08 17:13:22,121 - ui.main_window - INFO - 主窗口初始化完成
+2026-05-08 17:13:22,249 - __main__ - INFO - 主窗口已显示
+2026-05-08 17:13:47,217 - utils.image_handler - INFO - 从剪贴板加载图片成功
+2026-05-08 17:13:47,223 - utils.image_handler - INFO - 临时图片保存: C:\Users\唐卓然\AppData\Local\Temp\tmpj9av7gt5.png
+2026-05-08 17:13:48,959 - core.recognizer - INFO - 正在加载pix2text模型...
+2026-05-08 17:13:51,107 - pix2text.doc_yolo_layout_parser - INFO - Use DocLayout-YOLO model for Layout Analysis: C:\Users\唐卓然\AppData\Roaming\pix2text\1.1\layout-docyolo\doclayout_yolo_docstructbench_imgsz1024.pt
+2026-05-08 17:13:51,287 - cnocr.recognizer - INFO - use model: C:\Users\唐卓然\AppData\Roaming\cnocr\2.3\densenet_lite_136-gru\cnocr-v2.3-densenet_lite_136-gru-epoch=004-ft-model.onnx
+2026-05-08 17:13:51,349 - cnstd.ppocr.rapid_detector - INFO - use model: C:\Users\唐卓然\AppData\Roaming\cnstd\1.2\ppocr\ch_PP-OCRv5_det\ch_PP-OCRv5_det_infer.onnx
+2026-05-08 17:13:51,418 - pix2text.formula_detector - INFO - Use model path for MFD: C:\Users\唐卓然\AppData\Roaming\pix2text\1.1\mfd-1.5-onnx\pix2text-mfd-1.5.onnx
+2026-05-08 17:13:51,424 - pix2text.latex_ocr - INFO - Use model dir for LatexOCR: C:\Users\唐卓然\AppData\Roaming\pix2text\1.1\mfr-1.5-onnx
+2026-05-08 17:13:52,140 - pix2text.latex_ocr - INFO - Loaded Pix2Text MFR model mfr-1.5 to: backend-onnx, device-cpu
+2026-05-08 17:13:52,388 - core.recognizer - INFO - pix2text模型加载成功
+2026-05-08 17:13:52,390 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmpj9av7gt5.png
+2026-05-08 17:13:53,961 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmpj9av7gt5.png
+2026-05-08 17:14:01,199 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmpj9av7gt5.png
+2026-05-08 17:14:02,687 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmpj9av7gt5.png
+2026-05-09 20:46:01,342 - __main__ - INFO - ==================================================
+2026-05-09 20:46:01,343 - __main__ - INFO - 应用启动
+2026-05-09 20:46:01,343 - __main__ - INFO - ==================================================
+2026-05-09 20:46:01,943 - ui.main_window - INFO - 主窗口初始化完成
+2026-05-09 20:46:02,086 - __main__ - INFO - 主窗口已显示
+2026-05-09 20:46:04,565 - utils.image_handler - INFO - 从剪贴板加载图片成功
+2026-05-09 20:46:04,580 - utils.image_handler - INFO - 临时图片保存: C:\Users\唐卓然\AppData\Local\Temp\tmp_iik8cx7.png
+2026-05-09 20:46:10,731 - core.recognizer - INFO - 正在加载pix2text模型...
+2026-05-09 20:46:13,117 - pix2text.doc_yolo_layout_parser - INFO - Use DocLayout-YOLO model for Layout Analysis: C:\Users\唐卓然\AppData\Roaming\pix2text\1.1\layout-docyolo\doclayout_yolo_docstructbench_imgsz1024.pt
+2026-05-09 20:46:13,438 - cnocr.recognizer - INFO - use model: C:\Users\唐卓然\AppData\Roaming\cnocr\2.3\densenet_lite_136-gru\cnocr-v2.3-densenet_lite_136-gru-epoch=004-ft-model.onnx
+2026-05-09 20:46:13,688 - cnstd.ppocr.rapid_detector - INFO - use model: C:\Users\唐卓然\AppData\Roaming\cnstd\1.2\ppocr\ch_PP-OCRv5_det\ch_PP-OCRv5_det_infer.onnx
+2026-05-09 20:46:13,783 - pix2text.formula_detector - INFO - Use model path for MFD: C:\Users\唐卓然\AppData\Roaming\pix2text\1.1\mfd-1.5-onnx\pix2text-mfd-1.5.onnx
+2026-05-09 20:46:13,813 - pix2text.latex_ocr - INFO - Use model dir for LatexOCR: C:\Users\唐卓然\AppData\Roaming\pix2text\1.1\mfr-1.5-onnx
+2026-05-09 20:46:14,668 - pix2text.latex_ocr - INFO - Loaded Pix2Text MFR model mfr-1.5 to: backend-onnx, device-cpu
+2026-05-09 20:46:15,039 - core.recognizer - INFO - pix2text模型加载成功
+2026-05-09 20:46:15,040 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmp_iik8cx7.png
+2026-05-09 20:46:16,036 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmp_iik8cx7.png
+2026-05-11 10:37:57,816 - __main__ - INFO - ==================================================
+2026-05-11 10:37:57,816 - __main__ - INFO - 应用启动
+2026-05-11 10:37:57,816 - __main__ - INFO - ==================================================
+2026-05-11 10:37:58,237 - ui.main_window - INFO - 主窗口初始化完成
+2026-05-11 10:37:58,376 - __main__ - INFO - 主窗口已显示
+2026-05-11 10:38:09,807 - utils.image_handler - INFO - 从剪贴板加载图片成功
+2026-05-11 10:38:09,833 - utils.image_handler - INFO - 临时图片保存: C:\Users\唐卓然\AppData\Local\Temp\tmpvxg05nfj.png
+2026-05-11 10:38:13,523 - core.recognizer - INFO - 正在加载pix2text模型...
+2026-05-11 10:38:15,981 - pix2text.doc_yolo_layout_parser - INFO - Use DocLayout-YOLO model for Layout Analysis: C:\Users\唐卓然\AppData\Roaming\pix2text\1.1\layout-docyolo\doclayout_yolo_docstructbench_imgsz1024.pt
+2026-05-11 10:38:16,337 - cnocr.recognizer - INFO - use model: C:\Users\唐卓然\AppData\Roaming\cnocr\2.3\densenet_lite_136-gru\cnocr-v2.3-densenet_lite_136-gru-epoch=004-ft-model.onnx
+2026-05-11 10:38:16,403 - cnstd.ppocr.rapid_detector - INFO - use model: C:\Users\唐卓然\AppData\Roaming\cnstd\1.2\ppocr\ch_PP-OCRv5_det\ch_PP-OCRv5_det_infer.onnx
+2026-05-11 10:38:16,481 - pix2text.formula_detector - INFO - Use model path for MFD: C:\Users\唐卓然\AppData\Roaming\pix2text\1.1\mfd-1.5-onnx\pix2text-mfd-1.5.onnx
+2026-05-11 10:38:16,521 - pix2text.latex_ocr - INFO - Use model dir for LatexOCR: C:\Users\唐卓然\AppData\Roaming\pix2text\1.1\mfr-1.5-onnx
+2026-05-11 10:38:17,276 - pix2text.latex_ocr - INFO - Loaded Pix2Text MFR model mfr-1.5 to: backend-onnx, device-cpu
+2026-05-11 10:38:17,631 - core.recognizer - INFO - pix2text模型加载成功
+2026-05-11 10:38:17,632 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmpvxg05nfj.png
+2026-05-11 10:38:18,229 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmpvxg05nfj.png
+2026-05-11 10:38:57,655 - utils.image_handler - INFO - 从剪贴板加载图片成功
+2026-05-11 10:38:57,658 - utils.image_handler - INFO - 临时图片保存: C:\Users\唐卓然\AppData\Local\Temp\tmp_8ne014i.png
+2026-05-11 10:38:59,524 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmp_8ne014i.png
+2026-05-11 10:39:00,075 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmp_8ne014i.png
+2026-05-11 15:38:37,686 - utils.image_handler - INFO - 从剪贴板加载图片成功
+2026-05-11 15:38:37,688 - utils.image_handler - INFO - 临时图片保存: C:\Users\唐卓然\AppData\Local\Temp\tmp8by9nqx4.png
+2026-05-11 15:38:39,156 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmp8by9nqx4.png
+2026-05-11 15:38:39,493 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmp8by9nqx4.png
+2026-05-11 15:43:35,890 - utils.image_handler - INFO - 从剪贴板加载图片成功
+2026-05-11 15:43:35,903 - utils.image_handler - INFO - 临时图片保存: C:\Users\唐卓然\AppData\Local\Temp\tmpr3njhlrp.png
+2026-05-11 15:43:38,564 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmpr3njhlrp.png
+2026-05-11 15:44:03,528 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmpr3njhlrp.png
+2026-05-11 15:44:56,740 - utils.image_handler - INFO - 从剪贴板加载图片成功
+2026-05-11 15:44:56,743 - utils.image_handler - INFO - 临时图片保存: C:\Users\唐卓然\AppData\Local\Temp\tmpj5dokehs.png
+2026-05-11 15:44:58,309 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmpj5dokehs.png
+2026-05-11 15:44:58,583 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmpj5dokehs.png
+2026-05-11 15:47:00,414 - utils.image_handler - INFO - 从剪贴板加载图片成功
+2026-05-11 15:47:00,415 - utils.image_handler - INFO - 临时图片保存: C:\Users\唐卓然\AppData\Local\Temp\tmpux7lhkmy.png
+2026-05-11 15:47:01,477 - core.recognizer - INFO - 开始识别图片: C:\Users\唐卓然\AppData\Local\Temp\tmpux7lhkmy.png
+2026-05-11 15:47:01,974 - core.recognizer - INFO - 图片识别成功: C:\Users\唐卓然\AppData\Local\Temp\tmpux7lhkmy.png
